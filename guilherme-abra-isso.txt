@@ -1,1 +1,0 @@
-guilherme, as modelagens estão todas no arquivo "school". você vai ver que tem outros arquivos como "prop" e cerca, mas esses estão incompletos. as modelagens completas estão no school para aproveitamento de AO e etc.
